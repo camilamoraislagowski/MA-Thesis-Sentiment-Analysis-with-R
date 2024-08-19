@@ -1,11 +1,11 @@
 ### LIBRARY INSTALL + LOAD
-#install.packages("stringr")
-#install.packages("dplyr")
-#install.packages("tidytext")
-#install.packages("tidyr")
-#install.packages("textdata")
-#install.packages("widyr")
-#install.packages("ggplot2")
+install.packages("stringr")
+install.packages("dplyr")
+install.packages("tidytext")
+install.packages("tidyr")
+install.packages("textdata")
+install.packages("widyr")
+install.packages("ggplot2")
 
 ## LOADING OF PACKAGES
 library(stringr)
