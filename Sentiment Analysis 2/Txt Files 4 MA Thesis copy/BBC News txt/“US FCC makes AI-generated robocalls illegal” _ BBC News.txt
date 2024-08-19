@@ -1,0 +1,64 @@
+﻿“US FCC makes AI-generated robocalls illegal” | BBC News
+https://www.bbc.com/news/world-us-canada-68240887
+
+
+
+
+Nadine Yousif
+8 February 2024
+
+
+
+
+The federal agency that regulates communication in the US has made robocalls that use AI-generated voices illegal.
+
+
+The Federal Communications Commission (FCC) announced the move on Thursday, saying it will take effect immediately.
+
+
+It gives the state power to prosecute any bad actors behind these calls, the FCC said.
+
+
+It comes amid a rise in robocalls that have mimicked the voices of celebrities and political candidates.
+
+
+"Bad actors are using AI-generated voices in unsolicited robocalls to extort vulnerable family members, imitate celebrities, and misinform voters," said FCC chairwoman Jessica Rosenworcel in a statement on Thursday.
+
+
+"We're putting the fraudsters behind these robocalls on notice."
+
+
+The move comes on the heels of an incident last month in which voters in New Hampshire received robocalls impersonating US President Joe Biden ahead of the state's presidential primary.
+
+
+The calls encouraged voters not to cast ballots in the primary. An estimated 5,000 to 25,000 were placed.
+
+
+New Hampshire's attorney general said the calls were linked to two companies in Texas and that a criminal investigation is underway.
+
+
+The FCC said these calls have the potential to confuse consumers with misinformation by imitating public figures, and in some instances, close family members.
+
+
+The agency added that, while state attorneys general can prosecute companies and individuals behind these calls for crimes like scams or fraud, this latest action makes the use of AI-generated voices in these calls itself illegal.
+
+
+It "expands the legal avenues through which state law enforcement agencies can hold these perpetrators accountable under the law".
+
+
+In mid-January, the FCC received a letter signed by attorneys general from 26 states asking the agency to act on restricting the use of AI in marketing phone calls.
+
+
+"Technology is advancing and expanding, seemingly by the minute, and we must ensure these new developments are not used to prey upon, deceive, or manipulate consumers," said Pennsylvania Attorney General Michelle Henry, who led the effort.
+
+
+The letter follows a Notice of Inquiry put forward by the FCC in November 2023 that requested input from across the country on the use of AI technology in consumer communications.
+
+
+Deepfakes - which use AI to make video or audio of someone by manipulating their face, body, or voice - have emerged as a major concern around the world at a time when major elections are, or will soon, be underway in countries like the US, UK and India.
+
+
+Senior British politicians have been subject to audio deepfakes, as have politicians in nations including Slovakia and Argentina.
+
+
+The National Cyber Security centre in the UK has warned of the threats AI fakes pose to the country's next election.

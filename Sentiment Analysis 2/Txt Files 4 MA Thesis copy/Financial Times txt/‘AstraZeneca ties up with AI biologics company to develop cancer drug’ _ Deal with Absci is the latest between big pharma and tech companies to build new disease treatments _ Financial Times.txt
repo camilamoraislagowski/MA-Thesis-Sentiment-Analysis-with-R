@@ -1,0 +1,52 @@
+﻿‘AstraZeneca ties up with AI biologics company to develop cancer drug’ | Deal with Absci is the latest between big pharma and tech companies to build new disease treatments | Financial Times 
+https://www.ft.com/content/3d8a0ec6-5b04-486f-af2b-15de1486ffaf
+
+
+
+
+Michael Peel
+3 DECEMBER 2023
+
+
+
+
+AstraZeneca has signed a deal worth up to $247mn with Absci Corporation of the US to design an antibody to fight cancer, the latest tie-up in fast-expanding efforts to use artificial intelligence for drug discovery.
+
+
+The collaboration aims to harness Absci’s AI technology for large-scale protein analysis to find a viable oncology therapy — a leading focus of Anglo-Swedish drugmaker AstraZeneca.
+
+
+The partnership adds to a flurry of agreements between big pharmaceutical companies and young AI businesses to build novel disease treatments and cut the costs of developing them.
+
+
+Sean McClain, Absci’s founder and chief executive, said the application of engineering principles to drug discovery improved the potential of success and a reduction of the time spent in development.
+
+
+The deal includes an upfront fee for Absci, research and development funding and milestone payments, as well as royalties on any product sales.
+
+
+Absci, which is based in Washington state and has an AI research lab in New York, generates proprietary data by measuring millions of interactions between proteins.
+
+
+It then uses these to train its generative AI model and, eventually, design and validate viable antibodies — proteins that target foreign substances in the body.
+
+
+The companies have not disclosed precisely which kind of cancer they will target.
+
+
+The agreement is part of AstraZeneca’s ambitious plans to replace traditional chemotherapy with a new generation of targeted drugs.
+
+
+In October, it announced the outcomes of clinical trials for new treatments for lung and breast cancers — results it hailed as a “massive achievement”. 
+
+
+The collaboration with Absci was an “exciting opportunity” to use the company’s antibody creation AI, said Puja Sapra, an AstraZeneca senior vice-president who leads biologics engineering research and development.
+
+
+“AI is enabling us to not only increase the success and speed of our biologics discovery process, but also enhance the diversity of the biologics we discover,” Sapra said. “We are applying AI throughout our discovery and development process, through building in-house capabilities and through collaborations such as with Absci.”
+
+
+Anti-tumour drugs using various technologies are a significant subject of collaborations between leading pharmaceuticals multinationals and smaller companies doing cutting-edge research.
+
+
+In September, Moderna of the US agreed a deal potentially worth more than $1.7bn to develop cancer vaccines and therapies with Germany’s Immatics. The German company uses so-called T-cell receptor technology to target proteins associated with cancer.

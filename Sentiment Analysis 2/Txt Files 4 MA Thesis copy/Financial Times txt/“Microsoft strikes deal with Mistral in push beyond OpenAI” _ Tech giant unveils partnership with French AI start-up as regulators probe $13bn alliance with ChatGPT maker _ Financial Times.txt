@@ -1,0 +1,79 @@
+﻿“Microsoft strikes deal with Mistral in push beyond OpenAI” | Tech giant unveils partnership with French AI start-up as regulators probe $13bn alliance with ChatGPT maker | Financial Times 
+https://www.ft.com/content/cd6eb51a-3276-450f-87fd-97e8410db9eb
+
+
+
+
+Madhumita Murgia 
+26 FEBRUARY 2024
+
+
+
+
+Microsoft has struck a deal with French artificial intelligence start-up Mistral as it seeks to broaden its involvement in the fast-growing industry beyond OpenAI.
+
+
+Brad Smith, Microsoft’s president, unveiled a “multiyear partnership” with Paris-based Mistral on Monday, to help the 10-month-old company bring its AI models to market. The agreement was initially announced by Mistral.
+
+
+As part of the deal, Microsoft said it would invest in Mistral although the financial details have not been disclosed. The partnership will include a research and development collaboration to build applications for governments across Europe and “use these AI models to address public sector-specific needs”, Smith told the Financial Times. 
+
+
+The partnership makes Mistral the second company to provide commercial language models on Microsoft’s Azure cloud computing platform.
+
+
+“Microsoft’s trust in our model is a step forward in our journey to put frontier AI in everyone’s hands,” said Arthur Mensch, co-founder and chief executive of Mistral.
+
+
+According to Microsoft, it made a small investment in Mistral but does not hold any equity in the company.
+
+
+Microsoft has already invested about $13bn in San Francisco-based OpenAI, an alliance that is being reviewed by competition watchdogs in the US, EU and UK. Smith emphasised that the two companies were “very important partners” but that “Microsoft does not control OpenAI”.
+
+
+Other Big Tech rivals, such as Google and Amazon, are also investing heavily in building generative AI — software that can produce text, images and code in seconds — which analysts believe will shake up industries across the world.
+
+
+“We see this as a new sector of the economy that’s emerging; we call it the AI economy and it’s going to create entirely new businesses and new business categories,” said Smith.
+
+
+Microsoft chief executive Satya Nadella recently acknowledged the Paris-based company — founded by Mensch, Timothée Lacroix and Guillaume Lample, a trio of former Meta and Google researchers — as one of the innovators building AI on its Azure cloud computing platform.
+
+
+Mistral, which builds large language models, the underlying technology that powers generative AI products, secured a €2bn valuation in December in a funding round worth roughly €400mn.
+
+
+Its models are “open source”, meaning technical details will be released publicly.
+
+
+This contrasts with the approach of competitors such as ChatGPT maker OpenAI, whose latest model GPT-4 is a so-called black box in which the data and code used to build the model are not available to third parties.
+
+
+OpenAI was estimated to be worth $86bn during its recent secondary share sale last year.
+
+
+Microsoft says it has 1,600 AI models running in its data centres, of which 1,500 are open source, an area it hopes to continue to support alongside proprietary technology such as OpenAI’s.
+
+
+The infrastructure needed to train and develop new AI models is enormously costly to build, and only a few dozen companies are able to compete. Apart from the partnership with Mistral, Microsoft has announced $5.6bn in new AI data centre investments in the past two weeks in Germany and Spain. 
+
+
+Smith, speaking at the Mobile World Congress event in Barcelona on Monday, said that Microsoft would commit to a series of principles aimed at encouraging innovation and competition in AI.
+
+
+He said the wider debate that regulators would eventually focus on is whether the infrastructure to train and develop AI models is broadly available to companies that do not own data centres and cloud infrastructure — such as Microsoft, Google and Amazon.
+
+
+“If it were not [available], then it would be a constraint on the development of the market. And the point is, we’re committed to ensuring it is,” Smith said. “These principles do address one of the important elements that is likely to be on the minds of competition regulators.”
+
+
+Smith predicted that more investment was likely to flow into the design and development of AI chips, a sector led by Nvidia, which recently leapfrogged Amazon and Google parent Alphabet to become the third-most valuable US-listed company behind Microsoft and Apple.
+
+
+Smith said Microsoft would invest to create its own semiconductors, alongside competitors such as Intel and AMD, adding: “You’re going to see that, plus new ventures emerge.”
+
+
+OpenAI’s chief executive Sam Altman is ​​in discussions with Middle Eastern investors and chipmakers including Taiwan Semiconductor Manufacturing Company about launching a new chip venture.
+
+
+Smith said, however, that it was “too early” to say whether Microsoft would invest in that effort.

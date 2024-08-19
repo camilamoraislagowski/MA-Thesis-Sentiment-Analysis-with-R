@@ -1,0 +1,55 @@
+﻿“World’s biggest tech companies pledge to fight AI-created election ‘deepfakes’ “ | Google, Meta, Microsoft and OpenAI agree at Munich Security Conference to stifle content designed to mislead voters | Financial Times 
+https://www.ft.com/content/8dcbc162-a0f5-47ce-a2ea-5fb25cb160c5
+
+
+
+
+Camilla Hodgson 
+16 FEBRUARY 2024
+
+
+
+
+The world’s biggest technology companies have pledged to fight “deceptive” artificial intelligence-generated content from interfering with global elections this year, as fears mount over the impact of misinformation on democracy. 
+
+
+Amazon, Google, Meta, Microsoft, TikTok and OpenAI were among 20 tech companies that said on Friday during the Munich Security Conference they would work together to combat the creation and spread of content designed to mislead voters, such as “deepfake” images, videos and audio.
+
+
+According to the voluntary accord signed by the companies, the rapid development of AI was “creating new opportunities as well as challenges for the democratic process”, and the spread of deceptive content could “jeopardise the integrity of electoral processes”.
+
+
+“With so many major elections taking place this year, it’s vital we do what we can to prevent people being deceived by AI-generated content,” said Nick Clegg, president of global affairs at Meta. “This work is bigger than any one company and will require a huge effort across industry, government and civil society.”
+
+
+Brad Smith, vice chair and president of Microsoft, added that companies have “a responsibility to help ensure these tools don’t become weaponised in elections”. 
+
+
+The accord comes in the context of escalating concerns among lawmakers and experts about the potential for generative AI to imperil high-profile elections due to take place this year, including in the US, UK and India.
+
+
+Tech companies that operate major social media platforms such as Facebook, X and TikTok have faced scrutiny for years about the existence of harmful content on their sites and how they tackle it. 
+
+
+But the explosion of interest in and availability of generative AI tools have fuelled concerns about how technology could undermine elections in particular.
+
+
+In January, a robocall was sent to US voters in New Hampshire that claimed to be from President Joe Biden calling on them not to vote in the primary election. Last year, faked clips of politicians allegedly created using AI and then spread online were found in the UK, India, Nigeria, Sudan, Ethiopia and Slovakia.
+
+
+The 20 tech companies that signed Friday’s accord said they would work “collaboratively” on tools to root out the spread of harmful election-related AI content on their platforms, and take action in “swift and proportionate” ways.
+
+
+Efforts could include adding watermarks to images that made clear their provenance and if they had been altered, for example.
+
+
+The companies also pledged to be transparent about how they were tackling such deceptive content, and said they would assess their generative AI models — such as those behind OpenAI’s chatbot ChatGPT — to understand better the election-related risks they might pose.
+
+
+The agreement is the latest in a series of voluntary commitments around AI that Big Tech companies have made in recent months. Last year, groups including OpenAI, Google DeepMind and Meta agreed to open their generative AI models for review by Britain’s AI Safety Institute.
+
+
+This month, as part of joining industry initiative the Coalition for Content Provenance and Authenticity, Google said it was “actively exploring” whether it could roll out watermarking tools that showed how an image had been created.
+
+
+Meta also said in February that it would start labelling AI-generated images that users post to Facebook, Instagram and Threads “in the coming months”.

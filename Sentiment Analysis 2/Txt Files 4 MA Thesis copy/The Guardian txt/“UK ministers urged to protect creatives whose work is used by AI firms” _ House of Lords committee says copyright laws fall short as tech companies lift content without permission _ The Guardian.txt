@@ -1,0 +1,61 @@
+﻿“UK ministers urged to protect creatives whose work is used by AI firms” | House of Lords committee says copyright laws fall short as tech companies lift content without permission | The Guardian 
+https://www.theguardian.com/technology/2024/feb/02/uk-ministers-urged-to-protect-creatives-whose-work-is-used-by-ai-firms
+
+
+
+
+Dan Milmo 
+2 February 2024
+
+
+
+
+Ministers must defend content creators whose work is being taken without permission by tech companies to build artificial intelligence products such as chatbots that generate “vast financial rewards”, a House of Lords committee has said.
+
+
+The legal framework in the UK is failing to enforce the basic principles of copyright amid a rise in AI development, said the Lords’ communications and digital committee.
+
+
+“Some tech firms are using copyrighted material without permission, reaping vast financial rewards,” said the committee.
+
+
+Copyright has become a key battleground in the development of generative AI – the term for technology that generates text, image and audio from a human-typed command.
+
+
+Content creators and owners argue that their material is being used illegally to train large language models (LLMs), the technology behind chatbots, which need to be fed a huge amount of data in order to reliably predict the next word in a sequence of words.
+
+
+A report on LLMs and generative AI, published on Friday, said the principles of copyright were clear: to reward creators for their efforts; prevent use of their work without permission; and to encourage innovation.
+
+
+Urging the government to take action on flouting of copyright, the committee said: “The current legal framework is failing to ensure these outcomes occur and the government has a duty to act. It cannot sit on its hands for the next decade and hope the courts will provide an answer.”
+
+
+The committee recommended the government decides whether copyright law provides enough protection to copyright holders. If it believes there are legal uncertainties around the issue, peers said, it should set out options for updating legislation.
+
+
+Lady Stowell, the committee’s Conservative chair, said: “The government needs to be clear whether copyright law provides sufficient protections to rights holders because of the introduction of LLMs. If the government is clear that the legislative framework is not adequate then it should update that legislative framework.”
+
+
+The government’s intellectual property office is drawing up a code of practice on copyright and AI. Under the 1988 Copyright Act an exemption is made for text and data mining if it is research for “a non-commercial purpose”. In 2022 the government indicated that it would widen that exemption to any use but has now rowed back on that.
+
+
+Stowell added that the UK, with its wealth of private and government-owned data, could offer licensed datasets to AI firms hoping to build models on a secure legal basis. “If we can create new licensed datasets, there is a market we ought to be able to take advantage of,” she said.
+
+
+OpenAI, the US-based developer of the groundbreaking ChatGPT chatbot, is being sued in the US by the New York Times and a number of authors for alleged copyright infringement. One group of writers, which includes the bestselling John Grisham, has accused OpenAI of “systematic theft on a mass scale”.
+
+
+OpenAI said in its submission to the committee that it would be impossible to create tools like ChatGPT without access to copyrighted material. Mark Zuckerberg’s Meta, the image generator company Stability AI and Microsoft, an investor in OpenAI, also told the committee that limiting access to data could result in substandard or biased models.
+
+
+In the US, OpenAI’s defence relies on the concept of “fair use”, which allows use of content in certain circumstances without seeking the owner’s permission. In the UK there are also copyright exemptions under “fair dealing”, which relates to areas such as research, private study and news reporting.
+
+
+Elsewhere in the report, the committee warns the government of a protracted period of “technological turbulence” owing to AI and urges ministers to act against market power being concentrated in the hands of a small number of companies.
+
+
+Stowell said: “There has to be open competition. The market has to remain open. It’s dangerous if we have a situation where it is under the control of a small number of large firms.”
+
+
+A government spokesperson said: “The IPO [intellectual property office] has engaged with stakeholders as part of a working group with the aim of agreeing a voluntary code on AI and copyright. We will update on that work soon and continue to work closely with stakeholders to ensure the AI and creative industries continue to thrive together.”

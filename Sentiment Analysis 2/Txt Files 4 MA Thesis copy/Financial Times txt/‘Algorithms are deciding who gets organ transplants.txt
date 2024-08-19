@@ -1,0 +1,141 @@
+﻿‘Algorithms are deciding who gets organ transplants. Are their decisions fair?’ | Sarah Meredith was in urgent need of a liver when she found out an algorithm would be making the life-or-death decision | Financial Times | FT Magazine - Health | https://www.ft.com/content/5125c83a-b82b-40c5-8b35-99579e087951
+
+
+
+
+Madhumita Murgia 
+9 NOVEMBER 2023
+
+
+
+
+Sarah Meredith waited 25 months, two weeks and three days for the call. Sarah is 31 years old, a self-professed fan of dogs, nature and photography. Her dislikes, as she wrote recently on social media, include “people who think having a scratch on their car is a real problem”. Sarah’s problems are more limiting.
+
+
+Three days after she was born, she was diagnosed with cystic fibrosis, a genetic disease that causes severe long-term damage to the lungs, digestive system and other organs, reducing life expectancy. A few months later, doctors informed her parents that she also had Alpha-1 antitrypsin deficiency, a rare condition that affects the lungs and the liver. Sarah has lived with the increasingly toxic effects of both diseases on her body all her life.
+
+
+In summer 2021, about the time Sarah turned 28, her liver began to fail. Until then, she’d managed her health with a combination of drugs and other therapies, which constantly sent her in and out of hospital. During the pandemic, she avoided hospitals and her mother Cathy noticed the whites of her eyes were turning yellow. One afternoon, Sarah suddenly became confused and drowsy, displaying signs of what Cathy knew to be hepatic encephalopathy, the slow poisoning of the brain caused by poor liver function.
+
+
+Sarah was quickly seen by specialists in her local hospital in Plymouth. They estimated her liver had roughly two years left and recommended a liver transplant. Once Sarah agreed, she was put on a national list of patients waiting for livers and informed it would take months to get one. The NHS says the average wait time is 68 days.
+
+
+A year and nine months later, in early April this year, Sarah’s mother and older sister, Jess, sat next to each other in a tiny café on the outskirts of Cambridge, deep in conversation. Sarah was at home around the corner, in a little up-and-down house that she’d moved into a year ago to be closer to her medical team when the call finally came. It was early in the morning, but pop hits were blaring from the speakers. Jess, a civil engineer, quit her job so she could be here regularly. Now, Sarah’s boyfriend, Jess and Cathy were taking it in turns to stay a few days at a time while she waited.
+
+
+Jess was five years old when Sarah was born. Their father left a few years after his younger daughter’s birth so, for most of their lives, it had been just the three of them: Sarah, Jess and Cathy. Sarah was never in school long enough to make close friends, and the sisters became inseparable. With her blue hoodie and ponytail, Jess looked like she could be an undergraduate here at Cambridge. But when she spoke, it was with the world-weary acceptance of a woman much older than 35. Like her mother, she is analytical, precise, dogged.
+
+
+Over the years, the two women have researched experimental new treatments for cystic fibrosis, advocated in Parliament to have them approved in the UK and, when they were, campaigned for the NHS to offer the drugs to patients like Sarah. Their efforts have meant Sarah’s cystic fibrosis is now well controlled with the new drugs. “We’ve always fought for everything, always looked into everything. That’s really important in the NHS, when they are so overstretched,” said Cathy, a former chemist. “We stood outside Parliament with placards for two years,” added Jess, of the campaign that started in 2018.
+
+
+They were also armed with data. They combed through every academic paper they could find to understand Sarah’s rare combination of conditions and how to alleviate some of her worst symptoms. (Only six people with her two conditions have ever been listed for a liver transplant in the NHS’s history.) Having lived with chronic illness all her life, Sarah was also no stranger to questioning what doctors initially told her. Using science was how she and her family played their part in keeping her alive.
+
+
+A few months in, once it became clear the wait-time estimates they’d been given were inaccurate, Cathy and Jess did what they always did: they began reading published research on organ allocation and how to maximise Sarah’s odds. It was Jess who first spotted passing mention on the British Liver Trust website of something called a “Transplant Benefit Score”. The TBS, as it’s known, is a number produced by an algorithm that determines who goes to the top of the waiting list. Sarah’s wait, it seemed, was tied to her TBS and the software that calculated it.
+
+
+By then, Jess knew that donated livers had historically been allocated at a regional level at the discretion of clinicians. It was a local and largely human process. But in an attempt to reduce the number of patients who died waiting for a transplant, an algorithm was introduced in 2018 to match livers across the country. It had a name: the National Liver Offering Scheme, or NLOS. Now, each time a liver becomes available anywhere in England, it isn’t necessarily hospital transplant surgeons or hepatologists who make a decision, but also the score calculated by NLOS. Whoever has the highest score is offered the liver, whether they are in London or Leeds.
+
+
+Sarah and other transplant patients her family came across doing research had never been explicitly informed about the scoring algorithm. Most had no idea such a thing existed, or how it worked.
+
+
+Still, the goal of allocating livers more fairly on a national basis seemed like a good one in principle to Jess, and she was curious to see how it worked. Several consultant hepatologists they asked weren’t aware of exactly how the TBS was calculated, although they seemed to think she had a better chance because of her age. In fact, few medical professionals they met over the following months seemed aware of the workings of the software. They did tell Jess there were no humans involved in overseeing or overriding the score, and there was no appeals process, even at a physician’s discretion.
+
+
+Then, in 2021, Jess stumbled upon a website created by Ewen Harrison, a professor of surgery and data science at the University of Edinburgh. Harrison, who is also a practising transplant surgeon, had built a simple, accessible version of how the TBS was calculated. The site was a bit like an online tax calculator — input some of the patient’s variables, such as age, sex, some specific blood-chemistry measurements, and it would output their likely transplant benefit score.
+
+
+Jess excitedly shared her discovery with her mum and sister, and they began to play around with it. Sarah’s blood results might change, but things like her age and sex were fixed. When they put in Sarah’s details, Harrison’s calculator came back with a score in the low 300s, which meant she was extremely unlikely to get a liver.
+
+
+Cathy and Jess, Sarah’s mother and older sister © Daniel Castro Garcia
+Jess knew this because she had previously managed to find the NHS’s data set of TBS scores for patients who had already received a transplant. This meant she could compare Sarah’s estimated score with real results for the first time. She quickly realised that, no matter how she tweaked the variables, Sarah’s score always came out as a fraction of what seemed to be required for transplant. “I was plugging the numbers in, thinking this is unbelievable, she doesn’t seem to be fitting. She’s not going anywhere with this,’” Jess said. If the calculator was even remotely accurate, a scenario in which Sarah got a new liver seemed impossible.
+
+
+The family asked the NHS Blood and Transplant division (NHSBT) for an explanation of the algorithm, so they could see how the calculations applied to Sarah’s case. While they waited, Jess contacted Harrison directly. He told her he was no longer involved with the design of the online calculator, but suggested some other sources she might try. “It was the snippets you get, and then it points you to the next person and so on,” Jess said. “It is hours and hours of work . . . We’re in this completely privileged position because we’ve got the time. Not everyone can analyse statistics.”
+
+
+The NLOS that spits out the Transplant Benefit Scores is one of dozens of algorithms in use in healthcare systems around the world. These applied statistical systems are used by physicians and hospitals to aid decisions such as who receives heart surgery and organ transplantation, which patients are at the highest risk of surgical complications, and in diagnosing cancers and brain injury. The intent behind predictive algorithms, like the NLOS, is to make consequential decisions fairer.
+
+
+Over the past decade, predictive software has proliferated through western healthcare systems as a way to make crucial medical decisions more cost-efficient and accurate. The results haven’t always been as intended. In 2019, for example, researchers found that an algorithm used by hospitals treating up to 70 million Americans was prioritising healthier white patients over sicker black patients who needed extra medical support for chronic illnesses. Nearly 47 per cent of black patients should have been referred for extra care, but the algorithmic bias meant that only 18 per cent were, according to the study. The bias came from the software assigning higher risk scores to an individual with higher annual healthcare costs. Because minorities and other underserved populations make proportionally less use of healthcare, from a statistical perspective they appeared less costly — but they weren’t necessarily less sick. Similar racial biases have been found in algorithms involved in estimating heart failure risk, breast cancer diagnoses and, earlier this year, socio-economic bias was discovered in a liver allocation algorithm in use across the US.
+
+
+Systematic bias in algorithms can crop up for a variety of reasons, from the quality of underlying data used to train the systems — such as the skewed data from the 2019 study — to the unequal weighting of certain variables such as age, gender or race, which can inadvertently disadvantage specific communities. It’s why those who advocate for ethical use of these models, particularly in sensitive areas such as healthcare or policing, call for human oversight of all decisions and an appeal system that allows humans (surgeons, for example) to intervene if things don’t look quite right.
+
+
+In an organ allocation system, difficult choices must be made. Because there aren’t enough livers for all 700 people on the UK’s list, “transplantation remains a zero-sum game and any adjustment in allocation is simply a case of causing harm to one to help another,” wrote Raj Prasad, a surgeon at Leeds Teaching Hospitals, in the Lancet this year.
+
+
+But the question Jess was looking to answer was whether her sister was being unfairly and systematically passed over by the NLOS software, precluding her from ever receiving a liver through this method.
+
+
+There are generally two types of livers appropriate for transplantation. One type is donated by people declared “brainstem dead” after catastrophic brain injuries. For decades, these were the only livers considered viable for donation. However, in recent years, livers have increasingly been retrieved from individuals who are not brain-dead, but whose hearts have stopped beating. This is known as a “donation after circulatory death”. Although these now make up about 40 per cent of transplants in the UK, they are known to result in poorer outcomes for recipients, including a higher likelihood of organ rejection and death.
+
+
+Doctors retain the ability to allocate these latter livers, however the NLOS system is the sole method for allocating the more numerous — and preferred — brainstem death livers. Now, every time one of these livers becomes available anywhere in the UK, the algorithm produces a score for each patient on the waiting list. The score uses 28 variables — seven from the donor and 21 from the recipient — to decide who goes to the top of the list. Essentially, the calculation is the difference in a person’s survival without transplantation (their need) from their survival after transplantation (utility). The highest scoring patient gets the liver, if their doctors want it. If they don’t, the score is recalculated, and the liver is passed on to the new top-scorer, and so on.
+
+
+The algorithm had been in place for three years when Sarah was put on the waiting list. In an analysis of the algorithm’s outcomes up to that point by the Liver Advisory Group, an advisory panel to the NHS on liver transplantation, the overall number of deaths of individuals on the waiting list had dropped, compared with before the algorithm was introduced. This was treated by the NHSBT as a success.
+
+
+However, when waiting times were broken down by age, the analysis found that the improvements were primarily for older patients. Patients in Sarah’s age group, 26 to 39 year olds, were waiting far longer than they had previously and considerably longer than older people on the list. Before the algorithm, they remained on the waiting list about 40 days longer than patients over 60. After the algorithm, the gap widened to 156 days.
+
+
+So far, NHSBT says the number of deaths in the younger age group has not gone up, compared with older patients. Anecdotal evidence suggests the longer waits are leading to increasing deaths. One young woman who, like Sarah, had cystic fibrosis died while waiting for a liver transplant last summer. Cathy says she has been contacted by many others in similar positions.
+
+
+As Jess began to suspect that Sarah was at a systematic disadvantage under the NLOS system, she sent in a detailed formal complaint and brokered a meeting between her family and the doctors and officials at NHSBT. She had mapped out Sarah’s medical data and brought evidence to show her TBS was not rising above a certain threshold, meaning she was never going to reach the top of the waiting list before she became too ill to transplant. The family wanted to understand what could be done to give Sarah a better chance of getting a liver donation. The meeting, which took place over video, was hugely frustrating for the Merediths. “Every time we brought up the numbers, they would tell us we didn’t understand, presumably because we weren’t doctors,” Jess said. “It’s hard to push back on that.” The medical team also told the Meredith family that no allocation tool was perfect. “They said, ‘we are trying our best but nothing is 100 per cent.’ That wasn’t the point. We just wanted Sarah to have a fair chance,” Jess said.
+
+
+This was not a problem that the Merediths alone were highlighting. It had been noted by hepatologists across the country, who felt their younger patients were being unfairly disadvantaged. “If you’re below 45 years, no matter how ill, it is impossible for you to score high enough to be given priority scores on the list,” said Palak Trivedi, a consultant hepatologist at the University of Birmingham, which has one of the country’s largest liver transplant centres. Trivedi said patients found this particularly unfair, because younger people tended to be born with liver disease or develop it as children, while older patients more often contracted chronic liver disease because of lifestyle choices such as drinking alcohol. “This is potentially discrimination of a scoring system against young people . . . who have lost a lot of healthy life years,” he said.
+
+
+Trivedi’s criticisms were threefold. First, he believed the software gave too much weight to older age groups, docking your score if you were under 45. The reasoning behind this was the medical assumption that young people could survive longer than older people, although the long-term effects of waiting longer while chronically ill were unknown. “The disadvantage in . . . [getting] a timely liver transplant if you’re young is too great. So that needs to be revised,” Trivedi said.
+
+
+Second, he believed the premise of the algorithm — trying to reduce absolute mortality five years after a transplant — was flawed. The system did not account for other outcomes, such as the healthy life years lost by young patients kept waiting, their longer-term outcomes or reduced overall life expectancy. Taking these into account might paint a very different picture of whether the algorithm was beneficial and fair.
+
+
+Finally, Trivedi said the algorithm was trying to equal out the death rate across all ages on the waiting list, rather than reflecting the rate of the general population, where healthy older people are more likely to die than younger ones. Trivedi believed that transplant patients’ risk should be compared with an age- and sex-matched control population, rather than just against each other.
+
+
+“The algorithm is intended to allocate available livers to those most likely to benefit, which is an admirable aim. But estimating ‘expected benefit’ is extremely challenging, as there is no data set of comparable patients who did or did not receive transplants,” said David Spiegelhalter, one of Britain’s leading statisticians and an emeritus professor at the University of Cambridge. He added, “A range of subtle statistical issues appear to have unintentionally biased the algorithm against certain classes of patients.”
+
+
+Cathy Meredith had reached out to every single expert who had analysed the NLOS algorithm. She had contacted Spiegelhalter and Trivedi, as well as eminent liver specialists around the country. She had a transplant surgeon she talked to on WhatsApp. As the physicians and scientists conducted an analysis of how the NLOS algorithm was impacting patients at scale, the Merediths continued their parallel investigation, which involved educating themselves and fighting to be heard.
+
+
+Back in Cambridge, Jess led the way up the narrow carpeted stairs of their house, where Sarah was waiting at the dining table in a red-checked gingham shirt. She greeted us with a weak smile, one hand stroking Cathy’s collie-cross Meg, who sat at her feet, whining. Jess made everyone cups of tea and brought out some shortbread biscuits. For Sarah, there were chocolate eggs left over from Easter, which they tried to persuade her to eat, but she had no appetite.
+
+
+Cathy was talkative, filling pregnant silences with statistics, numbers and medical acronyms. It’s how she focused on the now, rather than the unthinkable future, which was the one thing she was unable to speak about. Jess was more measured and mellow, speaking softly with her sister. Sarah was quiet at the start, but began to get fired up when talking about advocating for herself. “You just feel a bit powerless when it’s something so massive like the NHS . . . to try and tackle the system when you’re waiting on the list,” she said. Their meeting with NHSBT last year was one example she gave. “They told us, ‘Well, no system is perfect, there’s no best way of doing this,’” Sarah said. “Oh, OK then, let’s not try to make it any better, yeah?”
+
+
+She had thought about the algorithm, and had concluded it was crucial to inform patients like her that they were being scored by a statistical software without human intervention and to give them information about how the scoring was done. “It gives you a slight disconnection and lack of control of the situation, knowing it’s an algorithm, so some people might not want to know,” she said. “But I think the transparency needs to be there.”
+
+
+The problems with the automated liver allocation score were larger than just the statistical flaws. Like many other automated decision-making processes, the algorithm had major human design flaws. For one, the way it was implemented curtailed the agency of human experts, preventing them from challenging its decisions. There was also a lack of transparency in terms of how it worked, and there was no way to appeal exceptional cases, like Sarah’s.
+
+
+Trivedi and others such as Nigel Heaton, a well-known transplant surgeon at King’s College Hospital, have publicly criticised and lobbied the NHSBT to revise the algorithm. But Trivedi said “that change hasn’t yet happened”.
+
+
+
+
+Olive McGowan, chief nurse at NHSBT, who has worked in organ transplantation and donation for several years, said the algorithm had achieved what it set out to do, “to increase the number of life years gained from transplanted livers and decrease the numbers of people dying on the waiting list”. She said the system had been built by clinicians, statisticians and other experts, and that it was regularly audited to test for unfair outcomes. For instance, last October it was redesigned to correct a bias against transplant patients with liver cancer.
+
+
+A research team investigating this fatal error showed that for the first three years of the TBS scheme, patients with cancer were rarely allocated a liver by the model. Deaths of patients with cancer on the wait-list increased. The error showed that “algorithms cannot apply common sense”, according to the researchers. Their findings led to revisions to the algorithm.
+
+
+McGowan admitted that it was “true to say younger patients may wait longer [after the algorithm], but it’s often younger patients who are more stable and can wait”. She added there was no other evidence to support that younger patients on the system were disadvantaged. She appealed for people to sign up to the organ donor register. “Unfortunately without perfect allocation systems, the bottom line is there aren’t enough livers to go around for all of us,” she said.
+
+
+On September 13, as this article was being written, Sarah finally got the call she had been waiting for. The surgeons at Addenbrooke’s Hospital in Cambridge had a circulatory-death liver from a donor in their seventies they were able to assign to her directly as it wasn’t controlled by the NLOS software. The liver was four decades older than Sarah, which was not ideal. But Sarah’s health had been deteriorating so rapidly, the family were extremely grateful.
+
+
+At the end of our last interview at her kitchen table, I’d asked Sarah what kept her fighting. At first she didn’t want to answer. The truth was, on some days, it was difficult to stay motivated. Then she changed her mind. “You obviously have times when you get down and days where you say to yourself ‘I’m not thinking about it.’ But I’ve always kind of held on to the good bits enough that I want to fight for those, and I’m lucky that I’ve got a great family who supports me,” she said, looking over at Jess and Cathy. “For me, it’s keep going for the good days.”

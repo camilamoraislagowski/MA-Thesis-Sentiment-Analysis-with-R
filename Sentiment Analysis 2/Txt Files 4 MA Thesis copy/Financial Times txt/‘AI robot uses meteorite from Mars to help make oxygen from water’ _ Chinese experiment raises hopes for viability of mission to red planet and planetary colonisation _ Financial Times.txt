@@ -1,0 +1,55 @@
+﻿‘AI robot uses meteorite from Mars to help make oxygen from water’ | Chinese experiment raises hopes for viability of mission to red planet and planetary colonisation | Financial Times
+https://www.ft.com/content/3c6b8698-67fb-4b80-ac6e-0184c9bb9fb1
+
+
+
+
+Michael Peel 
+13 NOVEMBER 2023
+
+
+
+
+A robot has used meteorite extracts from Mars to help make oxygen from water, melding artificial intelligence’s powers of chemical discovery with efforts to explore and even populate the red planet.
+
+
+The automated experiment boosts the possibility of sustaining future manned outer space missions, according to the paper published on Monday in Nature Synthesis. The authors estimated that it would have taken 2,000 years of human labour to achieve the same result by trial and error.
+
+
+The AI robot used the rock samples to make a catalyst — a substance that speeds up chemical reactions — to produce oxygen from water. The work, from a multidisciplinary team at the University of Science and Technology of China in the eastern city of Hefei, taps into rapidly growing interest in colonisation of the cosmos and possible exploitation of extraterrestrial resources. 
+
+
+“The biggest implication is that an AI-guided robot is able to produce useful chemicals in unknown conditions with unknown materials,” said Prof Jun Jiang, a co-author of the Nature Synthesis paper. “My dream is maybe we can send several robots, to the Moon firstly, and start to use the local resources to prepare the necessary chemicals and materials for human beings.”
+
+
+“There’s no more important resource than oxygen to breathe,” said Charles Cockell, professor of astrobiology at the University of Edinburgh, who was not involved in the research. “This is a thrilling example of how we can send robots to Mars and have them extract minerals that catalyse oxygen production from abundant Martian ice, making it possible for us to build a permanent self-sustaining settlement.”
+
+
+The researchers tasked their robot with making materials capable of producing oxygen from water sources that previous research had identified on Mars. The team gave the automated chemist five different meteorite samples to use to design a catalyst.
+
+
+Within six weeks, the robot analysed 243 experimental data sets and almost 30,000 theoretical simulations to pick and synthesise a viable six-metal catalyst from 3,764,376 possible formulas. The researchers successfully conducted the experiment at Martian temperatures of minus 37C. They demonstrated they could run the operation remotely, by setting up and controlling similar laboratories in three Chinese cities ­­hundreds of kilometres apart.
+
+
+A video accompanying the new paper shows the AI chemist shuttling solo between workstations to produce the materials needed to generate oxygen. The scene has echoes of the 1972 film Silent Running, in which the robot Dewey tends the last remnants of earth’s life-giving forests in a capsule hurtling through deep space.
+
+
+Countries such as China and the US are increasingly interested in both AI and space science. Elon Musk, the SpaceX founder, has longstanding plans for a mission to Mars.
+
+
+But huge obstacles to colonising other planetary bodies remain. Remote AI laboratories and manufacturing would need high process efficiency and considerable computing power, either in situ or off-planet. In the case of Mars, the set-ups would have to be resilient to much higher levels of radiation than penetrate Earth’s atmosphere.
+
+
+The Martian rock research, nonetheless, raised many interesting possibilities, said Dr Stephen Thompson, a planetary expert at Diamond Light Source, the UK particle accelerator. These include that an AI laboratory could act as an interstellar “filling station” for spacecraft by capturing hydrogen left over after the extraction of oxygen from water.
+
+
+The paper represented another advance in the fast-developing field of using AI for materials discovery, Thompson added.
+
+
+“AI is making great strides because it can process huge amounts of data,” Thompson said. “It’s highly efficient in identifying new materials in a way that would take humans year and years to do.”
+
+
+The research’s combination of chemistry, robotics and software design was “really cool”, said Mark Symes, professor of electrochemistry and electrochemical technology at the University of Glasgow.  
+
+
+“That’s what we are going to need if we’re going to colonise Mars — all the disciplines,” said Symes, who wrote a separate commentary on the research, also published in Nature Synthesis. “We will need materials wherever we live — and we are going to get them through chemistry.”

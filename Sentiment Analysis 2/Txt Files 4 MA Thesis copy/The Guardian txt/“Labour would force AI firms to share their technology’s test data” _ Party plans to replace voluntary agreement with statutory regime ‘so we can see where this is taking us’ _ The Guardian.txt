@@ -1,0 +1,37 @@
+﻿“Labour would force AI firms to share their technology’s test data” | Party plans to replace voluntary agreement with statutory regime ‘so we can see where this is taking us’ | The Guardian 
+https://www.theguardian.com/technology/2024/feb/04/labour-force-ai-firms-share-technology-test-data
+
+
+
+
+Dan Milmo 
+4 February 2024 
+
+
+
+
+Labour plans to force artificial intelligence firms to share the results of road tests of their technology after warning that regulators and politicians had failed to rein in social media platforms.
+
+
+The party would replace a voluntary testing agreement between tech companies and the government with a statutory regime, under which AI businesses would be compelled to share test data with officials.
+
+
+Peter Kyle, the shadow technology secretary, said legislators and regulators had been “behind the curve” on social media and that Labour would ensure the same mistake was not made with AI.
+
+
+Calling for greater transparency from tech firms after the murder of Brianna Ghey, he said companies working on AI technology – the term for computer systems that carry out tasks normally associated with human levels of intelligence – would be required to be more open under a Labour government.
+
+
+“We will move from a voluntary code to a statutory code,” said Kyle, speaking on BBC One’s Sunday with Laura Kuenssberg, “so that those companies engaging in that kind of research and development have to release all of the test data and tell us what they are testing for, so we can see exactly what is happening and where this technology is taking us.”
+
+
+At the inaugural global AI safety summit in November, Rishi Sunak struck a voluntary agreement with leading AI firms, including Google and the ChatGPT developer OpenAI, to cooperate on testing advanced AI models before and after their deployment. Under Labour’s proposals, AI firms would have to tell the government, on a statutory basis, whether they were planning to develop AI systems over a certain level of capability and would need to conduct safety tests with “independent oversight”.
+
+
+The AI summit testing agreement was backed by the EU and 10 countries including the US, UK, Japan, France and Germany. The tech companies that have agreed to testing of their models include Google, OpenAI, Amazon, Microsoft and Mark Zuckerberg’s Meta.
+
+
+Kyle, who is in the US visiting Washington lawmakers and tech executives, said the results of the tests would help the newly established UK AI Safety Institute “reassure the public that independently, we are scrutinising what is happening in some of the real cutting-edge parts of … artificial intelligence”.
+
+
+He added: “Some of this technology is going to have a profound impact on our workplace, on our society, on our culture. And we need to make sure that that development is done safely.”

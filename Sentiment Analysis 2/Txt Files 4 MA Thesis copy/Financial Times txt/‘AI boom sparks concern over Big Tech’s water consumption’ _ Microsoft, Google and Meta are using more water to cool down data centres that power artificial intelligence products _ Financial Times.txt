@@ -1,0 +1,67 @@
+﻿‘AI boom sparks concern over Big Tech’s water consumption’ | Microsoft, Google and Meta are using more water to cool down data centres that power artificial intelligence products | Financial Times 
+https://www.ft.com/content/6544119e-a511-4cfa-9243-13b8cf855c13
+
+
+
+
+Cristina Criddle and Kenza Bryan 
+25 FEBRUARY 2024
+
+
+
+
+The world’s biggest technology companies have substantially increased their use of water to cool down data centres, sparking concerns over the environmental impact of the generative artificial intelligence boom. 
+
+
+Microsoft, Google and Meta have raised their water consumption over recent years, with millions of users hooked on their online services.
+
+
+Academics suggest that AI demand would drive up water withdrawal — where water is removed from ground or surface sources — to between 4.2bn and 6.6bn cubic meters by 2027, or about half the amount consumed by the UK each year.
+
+
+Researchers from the University of California, Riverside, wrote in a paper cited in Nature this week that it was a “critical time to uncover and address AI models’ secret water footprint amid the increasingly severe freshwater scarcity crisis, worsened extended droughts and quickly ageing public water infrastructure”.
+
+
+This concern has grown over the past year as leading tech companies compete to release products that use generative AI, run on large language models able to process and generate huge amounts of text, numeric and other data.
+
+
+Such models require vast amounts of computing power to operate, requiring the use of huge server farms that use chilled water to cool down equipment by absorbing heat from the air. Some of the water evaporates in the cooling process, while some can be reused.
+
+
+Water is used in most forms of fuel and power generation, for example, to pump for oil and gas or to produce steam in thermal power stations. It also evaporates from the surface of reservoirs harnessed for hydroelectric power.
+
+
+In 2022, the latest period for when figures are available, Microsoft increased its water consumption 34 per cent, Google 22 per cent and Meta 3 per cent as a result of their growing use of data centres.
+
+
+These companies have targets to put more water back into systems such as aquifers than they consume by 2030, for example, by funding work to improve leaky irrigation infrastructure or restoring wetland systems.
+
+
+A month before OpenAI finished training its most advanced model, GPT-4, a data centre cluster in West Des Moines, Iowa, consumed 6 per cent of the district’s water, according to a lawsuit filed by its residents.
+
+
+Shaolei Ren, an associate professor at UC Riverside, has suggested that requesting between 10 and 50 responses from the company’s popular ChatGPT chatbot running on its older model GPT-3 would equate to “drinking” a 500ml bottle of water, depending on when and where it is deployed.
+
+
+GPT-4 had more parameters and required more power, so it would likely use more water, said Ren. Detailed information about the model’s energy use has not been made available.
+
+
+Researchers have called for more comprehensive data and transparency from AI firms, including a breakdown of how much different computing services consume, for example, search engines versus AI services.
+
+
+“We recognise training large models can be water-intensive, and is one of the reasons we are constantly working to improve efficiencies,” Open AI said when asked for comment. “We also believe that large language models can be helpful in accelerating scientific collaboration and discovery of climate solutions.” 
+
+
+Microsoft said that “currently, AI compute accounts for only a fraction of the electricity used by datacenters, which collectively use about 1 per cent of global electricity supply. How much this increases and how AI growth affects the global race to net zero will depend on many factors.”
+
+
+Google declined to comment.
+
+
+Kate Crawford, a research professor at USC Annenberg who specialises in the societal impacts of AI, said: “Without better transparency and more reporting on the issue, it’s impossible to track the real environmental impacts of AI models.
+
+
+“And this matters at a time when many parts of the planet are experiencing deep and extended droughts, and fresh drinking water is already a scarce resource.”
+
+
+She added: “We don’t want to be blindly using generative AI tools without knowing their true impacts at a time when the planet is already facing a climate crisis.”

@@ -1,0 +1,49 @@
+﻿“Don’t wait for Post Office-style scandal before regulating AI, ministers told” | Government to say binding measures for overseeing artificial intelligence are needed, but not immediately | The Guardian 
+https://www.theguardian.com/technology/2024/feb/06/dont-wait-for-post-office-style-scandal-before-regulating-ai-ministers-told
+
+
+
+
+Dan Milmo 
+6 February 2024
+
+
+
+
+Ministers have been warned against waiting for a Post Office-style scandal involving artificial intelligence before stepping in to regulate the technology, after the government said it would not rush to legislate.
+
+
+The government will acknowledge on Tuesday that binding measures for overseeing cutting-edge AI development are needed at some point – but not immediately. Instead, ministers will set out “initial thinking for future binding requirements” for advanced systems and discuss them with technical, legal and civil society experts.
+
+
+The government is also giving £10m to regulators to help them tackle AI risks, as well as requiring them to set out their approach to the technology by 30 April.
+
+
+However, the Ada Lovelace Institute, an independent AI research body, said the government should not wait for an impasse with tech firms or errors on the scale of the Post Office scandal before it acted.
+
+
+Michael Birtwistle, an associate director of the institute, said: “We shouldn’t be waiting for companies to stop cooperating or for a Post Office-style scandal to equip government and regulators to react. There is a very real risk that further delay on legislation could leave the UK powerless to prevent AI risks – or even to react effectively after the fact.”
+
+
+The potential for misuse of technology and its impact on people’s lives has been thrown into stark relief by the Horizon scandal, where hundreds of post office operators were wrongfully pursued through the courts due to a faulty IT system.
+
+
+The government has so far used a voluntary approach to regulating the most advanced systems. In November it announced at a global AI safety summit that a group of major tech companies, including the ChatGPT developer OpenAI and Google, had agreed with the EU and 10 countries, including the US, UK and France, to cooperate on testing their most sophisticated AI models.
+
+
+In its response to a consultation on the AI regulation white paper, the government is sticking to its framework of established regulators – such as the communications watchdog, Ofcom, and the data regulator, the Information Commissioner’s Office – regulating AI with reference to five core principles: safety, transparency, fairness, accountability and the ability of newcomers to challenge established players in AI.
+
+
+“AI is moving fast, but we have shown that humans can move just as fast,” said the technology secretary, Michelle Donelan. “By taking an agile, sector-specific approach, we have begun to grip the risks immediately, which in turn is paving the way for the UK to become one of the first countries in the world to reap the benefits of AI safely.”
+
+
+The government is also expected to confirm that talks between copyright holders and tech companies over treatment of copyrighted materials to build AI tools have failed to produce an agreement. The Intellectual Property Office, the government agency charged with overseeing the UK’s copyright regime, had been attempting to draw up a code of practice but could not broker an agreement. The failure of the talks was first reported by the Financial Times.
+
+
+The use of copyright-protected content in building AI tools such as chatbots and image generators, which are “trained” on vast amounts of data culled from the internet, has become one of the most legally contentious aspects of the boom in generative AI, the term for technology that instantly produces convincing text, image and audio from hand-typed prompts.
+
+
+Matthew Holman, a partner at the UK law firm Cripps, said: “Ultimately, AI developers need clarity from UK government about how they can safely conduct data collection and systems training without being constantly at risk of a copyright claim for countless rights holders.
+
+
+“At the same time, copyright proprietors require help protecting their valuable intellectual property, which is being routinely copied without permission.”

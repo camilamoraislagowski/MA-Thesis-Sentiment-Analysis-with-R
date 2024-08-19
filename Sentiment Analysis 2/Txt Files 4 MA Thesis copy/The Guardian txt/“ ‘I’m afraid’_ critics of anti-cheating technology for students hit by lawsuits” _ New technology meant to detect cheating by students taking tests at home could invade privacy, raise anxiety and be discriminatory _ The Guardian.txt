@@ -1,0 +1,165 @@
+﻿“ ‘I’m afraid’: critics of anti-cheating technology for students hit by lawsuits” | New technology meant to detect cheating by students taking tests at home could invade privacy, raise anxiety and be discriminatory | The Guardian 
+https://www.theguardian.com/us-news/2022/aug/26/anti-cheating-technology-students-tests-proctorio
+
+
+
+
+Zoe Corbyn
+26 August 2022 
+
+
+
+
+In 2020, a Canadian university employee named Ian Linkletter became increasingly alarmed by a new kind of technology that was exploding in use with the pandemic. It was meant to detect cheating by college and high-school students taking tests at home, and claimed to work by watching students’ movements and analyzing sounds around them through their webcams and microphones to automatically flag suspicious behavior.
+
+
+So Linkletter accessed a section of the website of one of the anti-cheating companies, named Proctorio, intended only for instructors and administrators. He shared what he found on social media.
+
+
+Now Linkletter, who became a prominent critic of the technology, has been sued by the company. But he is not the only one.
+
+
+Linkletter’s continuing case illustrates how vicious the fight over so called e-proctoring has become. At the height of the pandemic, it was estimated to be in use in nearly 63% of US and Canadian colleges and universities, and is thought still to be available in many of those, despite students’ return to classrooms.
+
+
+And while there are a number of companies which offer versions of the contentious software, Arizona-based Proctorio, which has a partnership with education giant McGraw Hill, is among the largest providers. It has been carving a name for itself by taking on its critics both in and out of court.
+
+
+The company, founded in 2013 by its current CEO, Mike Olsen, uses face and gaze detection among other tools to surveil test takers and ensure they are consistently interacting with an exam. Algorithms based on artificial intelligence flag abnormal behavior to university administrators for review.
+
+
+However, how effective e-proctoring technology is at detecting cheating, or even deterring it, is the subject of debate. And a notable instance when the software was unable to recognize a Black student’s face has brought unflattering attention.
+
+
+
+
+
+
+Legal battles
+The benefits of this software to students might include accessibility – they no longer have to travel to distant exam locations – while institutions could save on the cost of hiring spaces and invigilators.
+
+
+But it was students’ concerns – including those at the University of British Columbia (UBC) – shared on Twitter and Reddit that led Linkletter, a learning technology specialist in UBC’s faculty of education, to investigate the technology. They argued that it could invade privacy, increase anxiety and make students feel under suspicion, and also that it could be discriminatory for students of color, neurodiverse students or those with idiosyncratic behaviors.
+
+
+In June 2020, Linkletter was shocked when Proctorio’s CEO shared part of a private conversation between a Proctorio support agent and a UBC student on Reddit. (Olsen subsequently apologized.)
+
+
+One of Linkletter’s particular worries was the lack of transparency around how Proctorio’s algorithms worked. He wanted to find out more.
+
+
+In August 2020, he accessed materials in Proctorio’s instructor help center.
+
+
+He tweeted out links to seven unlisted YouTube videos he found there about how the technology worked – such as, for example, about how it detected abnormal eye and head movement and how it did a room scan.
+
+
+The next month the company sued Linkletter, claiming breach of copyright among other infringements. It argued that because of his actions, students would be able to modify their behavior and competitors could adopt similar technologies, which could harm Proctorio’s business.
+
+
+“I was 36 when I was sued and I’ll be lucky if this is over by 40,” Linkletter told the Guardian. “It’s really jammed up my life.” He has had to run a GoFundMe campaign to help cover his legal defense costs, which have so far totaled over $100,000. He and his wife have put having a family on indefinite hold because of the financial and health strain, and he’s received counseling to help him manage the anxiety it has caused.
+
+
+“The lawsuit does not vindicate any legitimate interest,” says Linkletter. “Its purpose from the very beginning has been to interfere with the public debate about academic surveillance software.”
+
+
+Proctorio sees it differently, it told the Guardian: “This was a narrow action taken as a last resort because Mr Linkletter illegally and repeatedly distributed our confidential and copyrighted information online.”
+
+
+Meanwhile, also in late 2020, Erik Johnson, a computer engineering student at another college that used Proctorio, also became concerned about the technology. Johnson, at Miami University in Ohio, examined the files that were saved to his computer when he installed the software, and uploaded excerpts of the code for the public to see. Johnson believed it supported his criticisms that the software was invasive, inequitable and overly controlling of a test taker’s computer.
+
+
+Proctorio got the material removed. Johnson sued it, claiming the company was abusing copyright law to interfere with his free speech. Proctorio sued him back, arguing copyright infringement and that Johnson had defamed the company and damaged its business relationships with universities.
+
+
+
+
+
+
+Chilling debate?
+Students continue to share negative experiences with e-proctoring online – where they are amplified by anonymous Twitter feeds like Procteario and ProcterrorU (name plays on Proctorio and another company ProctorU). But Proctorio’s recourse to law may have affected public discussion.
+
+
+Multiple critics of the technology declined to speak to the Guardian citing an aura of litigiousness. There is “censorship through the fear of a lawsuit”, says Albert Fox Cahn, founder and executive director of the Surveillance Technology Oversight Project, another advocacy group which has been critical of e-proctoring. “I have heard from dozens of individuals who want to speak out about this technology but fear the repercussions.”
+
+
+Ethan Wilde is one who says he is treading carefully because of Proctorio’s actions. Wilde, a faculty member at the computer studies department at Santa Rosa Junior College in the San Francisco Bay Area, has been campaigning against the use of automated proctoring since his institution announced it had obtained a license for Proctorio, using federal coronavirus relief funding, in early 2021.
+
+
+But, having followed the legal cases from afar, he is mindful of calling out the company and its technology too vocally, and keeps his criticisms off Twitter. “I am afraid of Proctorio,” he says.
+
+
+Yet Proctorio argues that public discourse is alive and well. “A quick glance at our Twitter mentions would show that we do not keep people from saying all number of things about us,” says a spokesperson.
+
+
+Whatever the case, Proctorio has painted a target on its own back, says Lia Holland, campaigns and communications director for anti-surveillance advocacy group Fight for the Future.
+
+
+It runs a campaign against e-proctoring which includes a website that satirizes Olsen – and has also found itself fighting a subpoena by Proctorio. “Proctorio’s own behavior has made it the example that we point to most often,” Holland said.
+
+
+
+
+
+
+Racist technology?
+While there are many charges against e-proctoring technology, perhaps most egregious is the potential of the software to discriminate on the basis of a user’s skin color. In one instance, Proctorio was unable to see a Black student’s face.
+
+
+In early 2021, Amaya Ross, an African American psychology student who recently completed her third year at Ohio State University, was gearing up in her dorm room to use Proctorio for the first time to take a practice biology quiz. She knew she needed good lighting, and made sure it was the middle of the day. But despite her best efforts, she couldn’t get the software to detect her face.
+
+
+Eventually she found that Proctorio worked if she stood directly under the overhead light – though it was hardly an ideal way to take an online test. So she mounted a powerful flashlight on the shelf above her computer and shone it directly at her face. Only then, over 45 minutes later, was she able to take the 30-minute quiz without issue. “My white friends didn’t have any problems,” she notes. (The Mozilla Foundation released an animated video of Amaya’s story.)
+
+
+Amaya and Janice Wyatt-Ross, her mother, credit Proctorio for its responsiveness. When the story gained traction after Janice posted about it on Twitter, the company got in touch and helped troubleshoot what, says Janice, it described as a “lighting issue”. Yet the pair worry.
+
+
+“Amaya is a problem solver, she was able to figure it out … [but] what about other students?” asks Janice. Automated proctoring software needs to be inclusive, says Amaya. “If you are going to do something this large” – introduce widescale e-proctoring – “make sure it is not a software that’s marginalizing people who already feel marginalized on campus,” she says.
+
+
+Proctorio told the Guardian that it had engaged an outside third party, BABL AI, to audit its face detection algorithm – and while the first audit found “no measurable (statistically significant) bias”, it was doing a second audit that should be completed this fall.
+
+
+A broader issue is, of course, whether the software achieves its overall goals of thwarting cheaters.
+
+
+In one experiment, published in 2021, six of 30 computer science students were asked to cheat. Proctorio failed to flag any of the cheating students while human reviewers detected one (out of six).
+
+
+Proctorio noted it was a small study and referred to others that it says back up e-proctoring’s efficacy – including one of 648 students, published in 2020, that suggests e-proctoring prevents cheating.
+
+
+
+
+
+
+Different paths
+Linkletter and Johnson’s cases have gone different ways.
+
+
+This March, Proctorio and Johnson reached a settlement. In a joint statement Johnson acknowledges that some of his comments about Proctorio were “imprecise and presented without context”. Meanwhile Proctorio appears to accept there are some valid issues with the technology. “We recognize some face detection and gaze detection algorithms have higher error rates, or work less accurately, for people of color. These issues have long existed to some degree in all camera-based technology,” reads the document, adding Proctorio is sensitive to the matter and made “substantial efforts” to address it.
+
+
+Linkletter, who has now moved to another job as librarian at a different institution, continues to fight Proctorio’s lawsuit. He has had some smaller legal wins. But he has failed in his attempt to have the case dismissed under legislation designed to protect individuals from being sued for expressing their views on matters of public interest. He is appealing that ruling, also issued in March, and two Canadian civil liberties organizations recently applied to join his appeal.
+
+
+Separately and unrelated to the Linkletter or Johnson cases, class-action lawsuits were filed against Proctorio along with two other companies – Examity and Honorlock – alleging they were in breach of the Illinois Biometric Information Privacy Act (BIPA).
+
+
+The act is considered one of the toughest digital privacy laws in the US and has been used to hit companies such as Facebook (now Meta) and Google over their use of facial recognition, resulting in large settlements. It regulates how companies collect, store, use, and share Illinois residents’ biologically unique data (for example fingerprints, iris or retina and face geometry scans).
+
+
+The lawsuits alleged that the companies failed to provide the required data retention and destruction policies and – in the case of Proctorio and Honorlock – failed to obtain the proper consent to take biometric information. Proctorio, for one, denied these charges. It said its technology does not capture, collect or use biometric information in the first place, for one thing because face and gaze detection do not uniquely identify an individual’s face.
+
+
+The case against Proctorio was dismissed by a judge in late August after the parties agreed to discontinue the case. The case against Honorlock has moved from the court to private arbitration, while the case against Examity continues.
+
+
+In another court case brought by a student against Cleveland State University, an Ohio judge has just ruled that scanning rooms via e-proctoring software before students take exams is unconstitutional.
+
+
+For Linkletter it is all a start to holding the companies accountable. AI surveillance was normalized for students in the pandemic, he says. “[But] whether it will become part of the future or something that we’re ashamed of is not settled.”
+
+
+This piece was updated on 31 August 2022 to reflect that the case against Proctorio has been dismissed, while the case against Honorlock has moved to private arbitration.

@@ -1,0 +1,52 @@
+﻿“YouTube to offer option to flag AI-generated songs that mimic artists’ voices” | Record companies will be able to request removal of content that mimics an artist’s ‘unique singing or rapping’ | The Guardian 
+https://www.theguardian.com/technology/2023/nov/14/youtube-to-offer-option-to-flag-ai-generated-songs-that-mimic-artists-voices
+
+
+
+
+Dan Milmo 
+14 November 2023 
+
+
+
+
+Record companies can request the removal of songs that use artificial intelligence-generated versions of artists’ voices under new guidelines issued by YouTube.
+
+
+The video platform is introducing a tool that will allow music labels and distributors to flag content that mimics an artist’s “unique singing or rapping voice”.
+
+
+Fake AI-generated music has been one of the side-effects of leaps forward this year in generative AI – the term for technology that can produce highly convincing text, images and voice from human prompts.
+
+
+One of the most high-profile examples is Heart on My Sleeve, a song featuring AI-made vocals purporting to be Drake and the Weeknd. It was pulled from streaming services after Universal Music Group, the record company for both artists, criticised the song for “infringing content created with generative AI”. However, the song can still be accessed by listeners on YouTube.
+
+
+The Google-owned platform said in a blogpost it would trial the new controls with a selected group of labels and distributors before a wider rollout. YouTube said the select group were also participating in unspecified “early AI music experiments” that involve using generative AI tools to produce content.
+
+
+YouTube will also allow people to complain about deepfakes in an update to its privacy complaint process.
+
+
+“We’ll make it possible to request the removal of AI-generated or other synthetic or manipulated content that simulates an identifiable individual, including their face or voice,” said the platform, adding that parodic content or deepfakes of public officials and well-known individuals might not be removed.
+
+
+“Not all content will be removed from YouTube, and we’ll consider a variety of factors when evaluating these requests,” YouTube said in the blogpost by Jennifer Flannery O’Connor and Emily Moxley, product management VPs at the company.
+
+
+YouTube will also require creators to disclose when they have made realistic looking “manipulated or synthetic” content, including AI-generated material. When content is uploaded, creators will be presented with an option to flag synthetic footage. YouTube said persistent flouting of the guidelines could result in content being removed or advertising payments being suspended.
+
+
+YouTube said the new AI guidelines were especially important “in cases where the content discusses sensitive topics, such as elections, ongoing conflicts and public health crises, or public officials.”
+
+
+A label flagging AI-generated content will be added to a video’s description panel but content about sensitive topics will receive a more prominent label. AI-made material will be removed altogether if it violates existing content guidelines, YouTube said, such as a synthetically created violent video designed to cause shock or disgust.
+
+
+Last week Meta, the parent company of Facebook and Instagram, said it would require political advertisers to acknowledge when they have used AI in ads on its platforms. Meta said advertisers will, for example, have to disclose when image, video or audio content is used to depict a real person doing something they did not say or do.
+
+
+Last month the UK government warned that deepfakes could contribute to a “degradation of the information environment” and reduce public trust in “true information, institutions and civic processes such as elections”.
+
+
+Last week it emerged that fake audio clips of Sadiq Khan, the London mayor, dismissing the importance of Armistice Day were circulating on social media.

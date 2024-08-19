@@ -1,0 +1,40 @@
+﻿You want AIs with that? McDonald's buys into machine learning | BBC News 
+https://www.bbc.com/news/business-47722259
+
+
+
+
+Anon
+27 March 2019
+
+
+
+
+McDonald's is buying an artificial intelligence start-up to help serve up data-driven meal choices.
+
+
+The technology developed by Israeli start-up Dynamic Yield can automatically change menus depending on the weather, time of day and traffic.
+
+
+McDonald's is reported to be paying $300m (£227m) for the tech firm.
+
+
+Number-plate recognition would also allow it to offer customers at drive-throughs their usual food order, McDonald's told Wired.
+
+
+Dynamic Yield's technology would allow AI to determine what products are promoted, for example automatically suggesting McFlurry ice cream on hot days, or telling customers which items are already proving popular at that particular restaurant that day.
+
+
+Most McDonald's outlets in the US are drive-throughs which is where the restaurant chain is planning to roll out the technology first.
+
+
+"It can know time of day, it can know weather. We can also have it understand what our service times are so it only suggests items that are easier to make in our peak hours," said McDonald's chief executive Steve Easterbrook.
+
+
+The ultimate aim was to provide a "much more personalised experience" and to be able to suggest additional items based on the customer's initial order, he added.
+
+
+Mr Easterbrook said McDonald's would use the technology to make the most of data gathered from serving the firm's 68 million fast-food customers and that it would be integrated into the app and the self-order kiosks already in stores.
+
+
+Dynamic Yield, based in Tel Aviv, has designed algorithms that use shopping patterns and past purchases to suggest what items you will buy next and produced machine learning systems for other firms including Ikea, Office and William Hill.

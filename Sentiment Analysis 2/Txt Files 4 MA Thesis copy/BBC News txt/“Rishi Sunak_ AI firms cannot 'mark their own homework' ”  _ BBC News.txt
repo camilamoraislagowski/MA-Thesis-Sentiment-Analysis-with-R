@@ -1,0 +1,109 @@
+﻿“Rishi Sunak: AI firms cannot 'mark their own homework' ”  | BBC News
+https://www.bbc.com/news/technology-67285315
+
+
+
+
+Tom Gerken and Imran Rahman-Jones
+1 November 2023
+
+
+
+
+Monitoring the risks posed by artificial intelligence (AI) is too important to be left to big tech firms, Prime Minister Rishi Sunak has said.
+
+
+He told the BBC that governments needed to take action and AI firms could not be left to "mark their own homework".
+
+
+He was speaking ahead of the AI Safety Summit, where a global declaration on managing AI risks has been announced.
+
+
+King Charles told delegates the issue required "urgency, unity and collective strength".
+
+
+It comes amid growing concerns about highly advanced forms of AI with as-yet unknown capabilities.
+
+
+So far countries are only starting to address the potential risks, which may include breaches to privacy, cyberattacks and the displacement of jobs.
+
+
+In an interview with the BBC at Downing Street, Mr Sunak AI was a "transformative technology" that could have huge benefits in the NHS or in schools.
+
+
+But he said he wanted the UK and other countries to be able "do the testing that is necessary to make sure that we are keeping our citizens and everyone at home safe".
+
+
+"There has to be governments or external people who do that work," he said.
+
+
+Speaking to the BBC's technology editor Zoe Kleinman, he said that many AI firms had already given the UK access to their models before their release.
+
+
+And he claimed the UK was "investing more" AI risk management than any other country.
+
+
+"We've already invested £100 million in our task force, which will become our Safety Institute," he said.
+
+
+"And we're attracting the best and the brightest researchers from around the world to come and work in that institution."
+
+
+
+
+Bletchley declaration
+Around 100 world leaders, tech bosses and academics are currently gathering at the UK's first AI safety summit at Bletchley Park, in Buckinghamshire.
+
+
+Earlier on Wednesday, the delegates agreed the world's first ever "international statement" on so called frontier AI - the government's term for AI that could exceed the capabilities of today's most advanced systems.
+
+
+The Bletchley Declaration calls for global cooperation on tackling the risks, which include potential breaches to privacy and the displacement of jobs.
+
+
+Signed by 28 countries and the EU, it also says AI should be kept "safe, in such a way as to be human-centric, trustworthy and responsible".
+
+
+Dr Caitlin Bentley, AI education lecturer at King's College London, said the declaration was an "important milestone" in promoting the "responsible AI development".
+
+
+However, she said more investment in AI education was needed to ensure "AI is not only responsible, but equitable in its effects" with the benefits felt by all.
+
+
+
+
+Meeting Mr Musk
+In his BBC interview, the prime minister defended a planned discussion with controversial tech billionaire Elon Musk on Thursday night, saying he could bring "something valuable to the conversation".
+
+
+"Elon Musk for a long time has both been an investor and developer of AI technologies himself," said Mr Sunak.
+
+
+"For over a decade, he's been also talking about the potential risks that they pose and the need for countries and companies to work together to manage and mitigate against those risks."
+
+
+Mr Musk arrived at the summit on Wednesday morning, having warned the day before that AI could lead to the extinction of humanity.
+
+
+But many experts consider warnings like this overblown.
+
+
+"We've got representatives from all the major AI companies here at the summit," said Mr Sunak.
+
+
+"And that's crucial, because countries will need to work together with the companies that are developing the technology."
+
+
+
+
+Benefits of AI
+Those appearing at the summit are discussing how best to maximise the benefits of AI - such as discovering new medicines and tackling climate change - while minimising the risks.
+
+
+The summit's priorities include the threat of bio-terrorism and cyber attacks.
+
+
+Speaking ahead of the event in London, US Vice President Kamala Harris said that world leaders "must address the full spectrum of AI risks to humanity" and listed examples of faulty algorithms in healthcare, the use of AI in making "deepfakes", misinformation and biased facial recognition.
+
+
+China has also backed international cooperation on AI, with the country's Vice Minister for Science and Technology, Wu Zhaohui, calling for "global collaboration to share knowledge and make AI technologies available to the public".

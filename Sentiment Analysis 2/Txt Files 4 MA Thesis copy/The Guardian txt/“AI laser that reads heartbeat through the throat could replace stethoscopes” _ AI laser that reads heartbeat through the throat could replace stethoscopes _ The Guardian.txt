@@ -1,0 +1,52 @@
+﻿“AI laser that reads heartbeat through the throat could replace stethoscopes” | AI laser that reads heartbeat through the throat could replace stethoscopes | The Guardian
+https://www.theguardian.com/society/2023/dec/02/laser-reads-heartbeat-through-throat-could-replace-stethoscopes
+
+
+
+
+Robin McKie
+2 December 2023
+
+
+
+
+Scientists have developed a laser camera that can read a person’s heartbeat at a distance and pinpoint signs that they might be suffering from cardiovascular illnesses.
+
+
+The system – which exploits AI and quantum technologies – could transform the way we monitor our health, say researchers at Glasgow University.
+
+
+“This technology could be set up in booths in shopping malls where people could get a quick heartbeat reading that could then be added to their online medical records,” said Professor Daniele Faccio of the university’s Advanced Research Centre.
+
+
+“Alternatively laser heart monitors could be installed in a person’s house as part of a system for monitoring different health parameters in a domestic setting,” he said. Other devices would include monitors to track blood pressure abnormalities or subtle changes in gait – an early sign of the onset of Alzheimer’s disease.
+
+
+Monitoring a person’s heartbeat from a distance would be particularly valuable because irregularities – including murmurs or heartbeats that are too fast or slow – would provide warning that they are in danger of suffering a stroke or cardiac arrest, added Faccio.
+
+
+At present, doctors use stethoscopes to monitor heartbeats. Invented in the early 19th century by the French surgeon René Laënnec (to prevent him having to put his ear on a female patient’s chest), a stethoscope consists of a disk-shaped resonator which, when placed on a person’s body, picks up noises occuring within their body. These are transmitted and amplified, via tubes and earpieces, to the person listening.
+
+
+“It requires training to use a stethoscope properly,” Faccio said. “If pressed too hard on a patient’s chest, it will dampen heartbeat signals. At the same time, it can be difficult to detect background murmurs, which provide key signs of defects, that are going on behind the main heartbeat.”
+
+
+The system developed by Faccio and his team involves high-speed cameras which can record images at speeds of 2,000 frames per second. A laser beam is shone on to the skin of a person’s throat and the reflections used to measure exactly how much their skin is rising and falling as their main artery expands and contracts as blood is forced through it. These changes involve movements of only a few billionths of a metre.
+
+
+Such acuity is striking, though on its own the tracking of these tiny fluctuations would not be enough to track a heartbeat. “Other, much larger movements occur on a person’s chest – from their breathing, for example – which would overwhelm signals from their heartbeat.
+
+
+“That is where AI comes in,” Faccio said. “We use advanced computing systems to filter out everything except the vibrations caused by a person’s heartbeat – even though it is a much weaker signal than the other noises emanating from their chest. We know the frequency range of the human heartbeat, and the AI focuses on that.”
+
+
+Analysis of the resulting signals allows health staff to detect changes in heart rate – not against a statistical average for a population but against a person’s own specific cardiac behaviour. That makes it invaluable in spotting changes that might be occurring in their heart and to pinpoint specific defects, said Faccio, whose team has established a start-up company, LightHearted AI, which is now seeking venture capital to expand development of their devices.
+
+
+“This system is very accurate,” said Faccio. “Even if you share a house with 10 people, it could pinpoint you from anyone else just by shining a laser on your throat and analysing your heartbeat from its reflection. Indeed one other use of the system is for biometric identification.
+
+
+“But the prime use of this technology – which we hope to have ready next year – will be to measure heartbeats easily and quickly outside hospitals or GP surgeries. The benefits could be considerable.”
+
+
+ The caption to the picture accompanying this article was amended on 5 December 2023. An earlier version incorrectly located the hospital in Greenwich; it is in Glasgow.

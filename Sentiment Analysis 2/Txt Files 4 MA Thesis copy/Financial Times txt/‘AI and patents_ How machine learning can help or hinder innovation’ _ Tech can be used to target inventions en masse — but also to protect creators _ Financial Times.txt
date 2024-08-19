@@ -1,0 +1,49 @@
+﻿‘AI and patents: How machine learning can help or hinder innovation’ | Tech can be used to target inventions en masse — but also to protect creators | Financial Times 
+https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b
+
+
+
+
+Yasmin Lambert 
+14 JUNE 2023
+
+
+
+
+Intellectual property lawyer Damien Riehl and computer programmer Noah Rubin were talking in a hotel bar when they came up with an idea: what if you could use a computer to create every possible musical melody, in the same way that hackers might use “brute force” to run through every possible combination of a secure password?
+
+
+That night, they built a prototype program that created 3,000 melodies. And so began the “All the Music” project — the melodies soon grew to 68bn and, as of today, 417bn. Copyright for the melodies is waived and they are released for public use, which prevents songwriters from accidentally infringing rights on existing music, helping them avoid frivolous or opportunistic lawsuits.
+
+
+Then, Riehl and his collaborators saw that this model could also be applied to patents, and have started work on a successor project called All the Patents.
+
+
+“What the project will do is take all the claims that have ever been filed in all the patents, and then recombine them using a machine to create every conceivable combination on every conceivable claim in every prior patent,” says Riehl. Once published, they would serve as ‘prior art’ — a patent law concept which states that, if an invention has already been described, is obvious, or is not new, it cannot be patented.
+
+
+The aim is to disincentivise businesses from machine-generating thousands of new patents which recombine existing patents for purely strategic purposes: when they have no intention of developing the invention, but aim to prevent others from developing similar innovations, or make some financial gain.
+
+
+Riehl’s project means that “the likelihood of those recombinations of old things getting denied [for a patent] is very high, therefore it’s not worth the expense”, he explains. “Instead, they need to innovate on their products, not on their patents.”
+
+
+What both of the initiatives demonstrate is how artificial intelligence can be applied to intellectual property — both to support and hinder innovation.
+
+
+While AI cannot currently be named as the inventor on most patents, it can speed up both innovation itself and the process of drafting and filing applications. “When it comes to drafting, AI can help write text, just as it can for many other applications,” says Mark Lemley, professor at Stanford Law School. “And it speeds the process up and makes it cheaper.” But he adds that “there are tools out there that let you write the patent claim you want to own, and the AI will draft the actual text of the supposed technology for you. That’s the opposite of how patent law is supposed to work.”
+
+
+While the use of generative AI has increased hugely since the launch of the ChatGPT chatbot in November 2022, older forms of AI have been used in the patent field for well over a decade. One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George Gregory and Joshua Walker in 2006.
+
+
+Walker, an IP lawyer and AI consultant, says that patenting is well ahead in its use of AI because engineers and computer scientists care about how their inventions are patented — making them more likely to create these solutions — but also because patent information is publicly available, and there is enormous economic value tied to patents.
+
+
+At Toyota North America, one of the busiest patent filers in the US, IP managing counsel Gunnar Heinisch’s team had been using AI for many years before ChatGPT arrived. “We’ve been using algorithms and machine learning to evaluate patent quality,” he says. “We can assess a potential idea, what might be a good invention to consider, and whether it’s patentable.” In the short term, he expects the new generative AI tools to help with searches of prior art and summarise patent applications in plain English for non-technical readers.
+
+
+In the longer term, AI may replace more and more of the human labour involved in patent processes. This will require a rethink of not only how patents are produced and assessed, but the roles of patent attorneys and other specialists.
+
+
+“Patenting is getting much more complex,” says Vasheharan Kanesarajah, head of strategic development for intellectual property at analytics company Clarivate. “And the traditional model of a patent attorney being a specialist in a single domain is being broken.”

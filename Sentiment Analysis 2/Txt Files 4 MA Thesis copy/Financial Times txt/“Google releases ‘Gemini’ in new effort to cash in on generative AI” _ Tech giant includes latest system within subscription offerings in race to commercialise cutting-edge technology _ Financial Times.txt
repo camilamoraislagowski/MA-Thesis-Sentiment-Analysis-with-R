@@ -1,0 +1,49 @@
+﻿“Google releases ‘Gemini’ in new effort to cash in on generative AI” | Tech giant includes latest system within subscription offerings in race to commercialise cutting-edge technology | Financial Times 
+https://www.ft.com/content/04ebe604-22f6-49bd-b03a-579f2058b8a5
+
+
+
+
+Madhumita Murgia 
+8 FEBRUARY 2024
+
+
+
+
+Google is releasing Gemini, its latest generative artificial intelligence system, alongside new offerings for businesses and consumers, as the tech giant races Microsoft and OpenAI to commercialise the cutting-edge technology.
+
+
+The search giant said its “largest, most capable and most general” AI system would be available as a free app through Google’s Android and Apple’s iOS app stores.
+
+
+However, its most advanced model, Gemini Ultra 1.0, will be offered as a chatbot, and integrated into the company’s suite of productivity tools such as Gmail, Docs and Sheets, through a premium subscription plan costing $20 a month.
+
+
+Generative AI — systems that spew out text, code, and video in seconds — has opened up a new front in the battle for big tech dominance across Silicon Valley.
+
+
+Google’s latest model, which it says can analyse information from images and audio, and has sophisticated reasoning and coding capabilities, follows those released by Microsoft-backed OpenAI, Meta and start-ups such as Anthropic and Mistral.
+
+
+Having spent billions on developing generative AI, tech groups are now focusing on creating clear business models from the technology. In November, Microsoft rolled out Copilot, its AI productivity assistant in enterprise versions of its widely used Microsoft 365 suite of productivity apps, which includes Word, PowerPoint and Excel, for $30 a month. 
+
+
+Google is renaming all its AI products, such as the Bard chatbot, “Gemini” as part of a corporate rebranding designed to unify its array of generative AI offerings.
+
+
+However, the system will not be available in the EU at launch, which Google suggested was down to regulatory hurdles. The EU has agreed an AI Act, which will impose new burdens on tech companies building AI models.
+
+
+“We are working with local regulators to make sure we are abiding by local regime requirements before we can expand,” said Sissie Hsiao, vice-president at Google and general manager of Gemini experiences.
+
+
+On Android phones, Gemini acts as a virtual assistant that responds to voice and text commands. “You can take a picture of your flat tyre and ask for instructions, generate a custom image for your dinner party invitation or ask for help writing a difficult text message,” Hsiao said. “It’s an important first step in building a true AI assistant — one that is conversational, multimodal and helpful.”
+
+
+As Google rolls out the first commercial version of its AI software, investors are watching for signs that the Californian company can narrow the gap with Microsoft to develop generative AI models that are taken up by paying customers and integrate the technology into its Cloud services and search products, which compete with AI advancements by Microsoft’s Copilot.
+
+
+Shares in Alphabet, Google’s parent company, hit record highs in January amid a broader surge in tech stocks. In its quarterly earnings report last month, Alphabet’s overall revenue rose to $86.3bn, a 13.5 per cent year-on-year increase that was ahead of analyst expectations, although it narrowly missed forecasts for growth in its advertising business. 
+
+
+Alphabet chief executive Sundar Pichai said Google was also “experimenting” with applying its Gemini models to its search business. “AI gives us an opportunity on the organic side and the monetisation side and we are in the early days of it,” he said. “Taking the long-term view, we will be able to service information needs in a deeper way, and I am pretty excited about what’s ahead.”

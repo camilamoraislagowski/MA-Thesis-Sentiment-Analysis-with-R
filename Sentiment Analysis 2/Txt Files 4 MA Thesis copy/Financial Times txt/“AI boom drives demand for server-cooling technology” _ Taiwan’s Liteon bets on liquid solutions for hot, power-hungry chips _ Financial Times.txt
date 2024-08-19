@@ -1,0 +1,67 @@
+﻿“AI boom drives demand for server-cooling technology” | Taiwan’s Liteon bets on liquid solutions for hot, power-hungry chips | Financial Times 
+https://www.ft.com/content/b83bdff9-83c5-42dc-a8db-854fcfb2cc95
+
+
+
+
+Lauly Li and Cheng Ting-Fang, Nikkei Asia tech correspondents 
+7 FEBRUARY 2024
+
+
+
+
+The market for artificial intelligence is not the only thing heating up. So, too, are the chips and servers that power the cutting-edge technology, driving demand for more efficient cooling solutions.
+
+
+Taiwan’s Liteon Technology is one of several component makers stepping up efforts to develop liquid cooling solutions for AI data centres as energy consumption emerges as one of the most pressing bottlenecks to boosting computing performance.
+
+
+“There is a lot of heat to be solved [with AI data centres]” and traditional air-cooling solutions are not capable enough, Simon Ong, Liteon associate vice-president of cloud infrastructure platform and solutions, told Nikkei Asia. “[The need for] a more sophisticated cooling technology to solve the heat generated from the systems is unstoppable.”
+
+
+AI data centres run on powerful graphics processor chips from the likes of Nvidia and Advanced Micro Devices. These chips can handle parallel computing operations, which are needed to enable generative AI applications such as OpenAI’s ChatGPT and Google’s Bard.
+
+
+But their power requirements are rising sharply, from 400 watts for Nvidia’s A100 chip to 700 watts for its H100 chip. The next-generation B100 will consume 1,000 watts of electricity per chip — more than four times the estimated power needed to run a 240-watt MacBook Air for eight hours.
+
+
+The explosive demand for Nvidia’s H100 graphics processing units for training AI models has helped spotlight the power supply and thermal solutions industries, which were previously viewed as peripheral areas of the supply chain.
+
+
+As chip power consumption soars, the heat generated becomes a critical bottleneck. Temperature directly affects chip performance and therefore demands more sophisticated cooling solutions than before. Traditional air-cooling, which mainly uses fans and pipes, is unable to solve the problem of rising heat in AI servers, according to industry experts.
+
+
+Moreover, cooling technologies are critical for data centre operators to maintain a low power usage effectiveness — or PUE, a measure of how energy-efficient a data centre is — as the tech industry races to achieve net zero emissions.
+
+
+Emerging cooling technologies include liquid cooling, which involves a system of water flowing around a server to lower temperatures, and immersion technology, in which an entire server rack is immersed in a non-conductive liquid.
+
+
+Liteon, a supplier to Apple, HP and Dell and an important player in power and thermal solutions for data centre infrastructure, is looking to solidify its position in liquid-cooling solutions.
+
+
+Other companies increasing efforts in this area include thermal control providers Delta Electronics, Cooler Master Technology and Auras Technology. Even chipmakers such as Intel and server system integrators such as Giga-Byte Technology, Inventec and Wiwynn are dedicating resources to developing innovative cooling technologies.
+
+
+According to Liteon, conventional cooling methods are not up to the AI challenge. The company said it conducted benchmark tests on two sets of chips using different thermal solutions.
+
+
+“We found chips using air-cooling methods could only reach 60 per cent of their performance and will have certain overheating concerns, while liquid-cooling solutions can continue to boost computing performance to its optimisation,” Ong said. “If the chips are too hot, they will never perform as efficiently and powerfully as they are operating under an acceptable environment.”
+
+
+Ong said data centre operators could keep temperatures down with conventional methods by extending the size of cooling fins in the server rack but added: “Do you want a server rack full of cooling fins or full of chips in such a limited space? Of course, we want ever more computing power.”
+
+
+In the future of AI computing, “new liquid cooling technologies will be a very important solution, rather than the current mainstream thermal solutions that use air to dissipate heat, which are cheaper but much slower to cool down the surface”, he said.
+
+
+Chris Wei, industry consultant with the Market Intelligence and Consulting Institute, said AI servers were equipped with more central processing units and GPUs than traditional servers and that their higher energy consumption was driving the push to upgrade existing components and technologies, such as cooling and power supplies.
+
+
+“The power consumption of an AI server breaks the limit of air-cooling technologies of 300 watts, spurring demand for more sophisticated and efficient cooling technologies, like water or liquid-cooling,” Wei told Nikkei Asia.
+
+
+The production value of AI servers already exceeded 50 per cent of the total global server market in 2023, Wei said, adding that the MIC forecast the penetration of AI servers would rise from 12.4 per cent of the overall industry last year to 20.9 per cent by 2027.
+
+
+A version of this article was first published by Nikkei Asia on January 31. ©2024 Nikkei Inc. All rights reserved.

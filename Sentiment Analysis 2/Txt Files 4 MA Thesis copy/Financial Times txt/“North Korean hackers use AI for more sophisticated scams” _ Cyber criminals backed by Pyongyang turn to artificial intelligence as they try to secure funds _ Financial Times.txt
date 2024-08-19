@@ -1,0 +1,70 @@
+﻿“North Korean hackers use AI for more sophisticated scams” | Cyber criminals backed by Pyongyang turn to artificial intelligence as they try to secure funds | Financial Times 
+https://www.ft.com/content/728611e8-dce2-449d-bb65-cff11ac2a5bb
+
+
+
+
+Christian Davies
+19 FEBRUARY 2024
+
+
+
+
+North Korean cyber criminals are turning to artificial intelligence to help Pyongyang steal cutting-edge technologies and secure funds for its illicit nuclear weapons programme.
+
+
+The hackers have long targeted employees of global defence, cyber security and crypto companies, tricking users on LinkedIn and other networking platforms into revealing sensitive information or giving access to computer networks or crypto wallets.
+
+
+Their most notorious hacking operations include the theft of $951mn from Bangladesh’s central bank, and the WannaCry ransomware attack on the UK’s National Health Service in 2017.
+
+
+ChatGPT developer OpenAI and its investor Microsoft last week confirmed that hackers working on behalf of North Korea, as well as China, Russia and Iran, were using the company’s AI services “in support of malicious cyber activities”.
+
+
+South Korea had previously detected North Korean hackers using generative AI to target security officials, a South Korean intelligence official said. “We are closely monitoring North Korea’s related movements, while keeping in mind the possibility of North Korea putting generative AI to bad use,” the official added.
+
+
+Of the 1.62mn hacking attempts made against South Korean companies and public bodies last year, more than 80 per cent have been traced back to North Korea, South Korea’s National Intelligence Service briefed reporters last month.
+
+
+But Pyongyang’s phishing and social engineering operations have often been undermined by North Korean hackers’ poor grasp of the colloquial English or Korean needed to gain the trust of their targets.
+
+
+North Koreans’ adoption of generative AI — software that mimics human ability — constituted a formidable new challenge, said Erin Plante, vice-president of investigations at blockchain data platform Chainalysis.
+
+
+“North Korean hacking groups have been seen to create credible-looking recruiter profiles on professional networking sites such as LinkedIn,” said Plante. “Generative AI helps with chatting, sending messages, creating images and new identities — all the things you need to build that close relationship with your target.”
+
+
+She described one case in which North Korean hackers used generative AI tools to target a senior engineer at a Japanese cryptocurrency exchange by posing on LinkedIn as recruiters for an exchange in Singapore. The fake recruiters asked the engineer to conduct “a technical exercise” that involved downloading software. This allowed them to infect it with North Korean spyware.
+
+
+“The attacks are getting very sophisticated — we are not talking about a badly worded email that says ‘click on this link’,” said Plante. “These are detailed profiles on LinkedIn and other social media platforms, which they use to build relationships over weeks and months.”
+
+
+Shreyas Reddy, an analyst with Seoul-based information service NK Pro, said that while LinkedIn was a “particularly useful hunting ground” for fake North Korean recruiters, “they also use other platforms such as Facebook, WhatsApp, Telegram and Discord to target potential phishing victims”.
+
+
+Reddy said that AI services such as ChatGPT could also help the North Koreans to develop more sophisticated forms of malicious software, or malware, used to infiltrate their victims’ computer networks.
+
+
+“There are safeguards in these services to prevent their use for malicious purposes, but people have been able to find their way around them,” said Reddy, noting North Koreans also benefit from access to Chinese AI services.
+
+
+Pyongyang has spent decades building up its cyber capabilities, a project that dates back to the late 1980s and early 1990s when the ruling Kim dynasty began to develop what was then a nascent nuclear weapons programme.
+
+
+According to a UN panel of experts monitoring the implementation of international sanctions, money raised by North Korea’s criminal cyber operations is helping to fund the country’s ballistic missile and nuclear programmes.
+
+
+Hyuk Kim, a research fellow at the James Martin Center for Nonproliferation Studies in Monterey, notes that North Korean researchers have published hundreds of AI-related studies over the past two decades. North Korea established an Artificial Intelligence Research Institute in 2013 and several North Korean universities have introduced AI-focused programmes.
+
+
+Academic papers published in North Korean scientific journals, several of which were co-authored with Chinese scholars affiliated with Chinese military institutions, give an insight into Pyongyang’s thinking as to possible future applications for AI programmes.
+
+
+In one paper from 2022, North Korean scholars refer to a study exploring the use of a machine learning method called “reinforcement learning” in a war gaming simulation. Another paper from the same year looks at how a different machine learning technique could help safely operate a large nuclear reactor.
+
+
+“From what we can tell, the sophistication of North Korean AI systems is still embryonic,” said Kim. “But it is also possible they simply don’t want to reveal their capabilities.”
