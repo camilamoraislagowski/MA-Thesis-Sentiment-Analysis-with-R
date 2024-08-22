@@ -1,4 +1,4 @@
-### LIBRARY INSTALL + LOAD
+# LIBRARY INSTALL + LOAD -> AFTER INSTALLING PACKAGES, MAKE SURE TO TURN THESE LINES OF CODE INTO COMMENTARY BY ADDING A # IN FRONT, THAT WILL AVOID YOU ACCIDENTALLY INSTALLING THEM AGAIN WHEN RUNNING THE WHOLE CODE
 install.packages("stringr")
 install.packages("dplyr")
 install.packages("tidytext")
@@ -7,7 +7,7 @@ install.packages("textdata")
 install.packages("widyr")
 install.packages("ggplot2")
 
-## LOADING OF PACKAGES
+# LOADING OF PACKAGES
 library(stringr)
 library(dplyr)
 library(tidytext)
@@ -16,7 +16,7 @@ library(textdata)
 library(widyr)
 library(ggplot2)
 
-## SENTIMENT PACKAGE RETRIEVAL
+# SENTIMENT PACKAGE RETRIEVAL
 get_sentiments("nrc")
 get_sentiments("bing")
 get_sentiments("afinn")
@@ -33,7 +33,7 @@ news_tokens <- news_df %>% unnest_tokens(word, headline_text)
 head(news_tokens, 10)
 tail(news_tokens, 10)
 
-### WORD FREQUENCY ANALYSIS
+# WORD FREQUENCY ANALYSIS
 news_tokens_count <- news_tokens %>% count(word, sort = TRUE) %>% mutate(proportion = n / sum(n))
 
 # OUTPUT CHECK
@@ -43,7 +43,7 @@ tail(news_tokens_count, 10)
 data(stop_words)
 head(stop_words, 10)
 
-### STOP-WORD REMOVAL
+# STOP-WORD REMOVAL
 news_tokens_no_sp <- news_tokens %>% anti_join(stop_words, by = "word")
 head(news_tokens_no_sp, 10)
 
@@ -88,7 +88,7 @@ single_news_tokens <- lapply(tkn_1, function(x) {
 str(single_news_tokens, list.len = 5)
 single_news_tokens[[1]]
 
-### SENTIMENT ANALYSIS USING BING'S LEXICON
+# SENTIMENT ANALYSIS USING BING'S LEXICON
 compute_sentiment <- function(d) {
   if (nrow(d) == 0) {
     return(NA)
@@ -116,7 +116,7 @@ summary(single_news_sentiment_bing)
 
 single_news_sentiment_bing_df <- data.frame(headline_text = news_df_subset$headline_text, score = single_news_sentiment_bing)
 
-### SENTIMENT ANALYSIS USING NRC'S LEXICON
+# SENTIMENT ANALYSIS USING NRC'S LEXICON
 sentiments_nrc <- get_sentiments("nrc")
 unique_sentiments_nrc <- unique(sentiments_nrc$sentiment)
 
@@ -146,7 +146,7 @@ str(single_news_sentiment_nrc)
 # RESULTS
 summary(single_news_sentiment_nrc)
 
-### SENTIMENT ANALYSIS USING AFINN'S LEXICON
+# SENTIMENT ANALYSIS USING AFINN'S LEXICON
 sentiments_afinn <- get_sentiments("afinn")
 colnames(sentiments_afinn) <- c("word", "sentiment")
 str(sentiments_afinn)
@@ -175,7 +175,7 @@ summary(single_news_sentiment_afinn)
 single_news_sentiment_afinn_df <- data.frame(headline_text = news_df_subset$headline_text, score = single_news_sentiment_afinn)
 head(single_news_sentiment_afinn_df, 10)
 
-### COMPARISON OF THE RESULTS
+# COMPARISON OF THE RESULTS
 compute_congruence <- function(x, y, z) {
   v <- c(sign(x), sign(y), sign(z))
   if (sum(is.na(v)) >= 2) {
