@@ -2,7 +2,7 @@
 
 ## ℹ️ Information
 
-This project is a part of the MA thesis "Assessing western media’s sentiment on artificial intelligence: a reduced-bias method of analysis", done by student Camila Morais, for the course International Legal Communication at the University of Warsaw.
+This project is a part of the MA thesis "Assessing western media’s sentiment on artificial intelligence", done by student Camila Morais, for the course International Legal Communication at the University of Warsaw.
 
 
 ## 📩 Installation
